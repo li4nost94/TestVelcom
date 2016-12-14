@@ -1,5 +1,5 @@
 # TestVelcom
 
-<img src="screen.png" width="450" height="450" alt="">
+<img src="screen.png" width="800" height="450" alt="">
 
 
